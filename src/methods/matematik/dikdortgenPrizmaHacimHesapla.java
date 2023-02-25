@@ -1,4 +1,4 @@
-package methods;
+package methods.matematik;
 
 import java.util.Scanner;
 

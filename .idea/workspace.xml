@@ -1,14 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="8ef0e2ce-5ba7-44aa-9d01-ffecab184b6f" name="Changes" comment="" />
+    <list default="true" id="8ef0e2ce-5ba7-44aa-9d01-ffecab184b6f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/methods/tarih_hesaplari/GirilenTarihBugunArasindakiFark.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/methods/tarih_hesaplari/IkiTarihArasindakiFark.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/methods/kullanici_verigirisi_kontrol/KullaniciVeriGirisiKontrol.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/methods/kullanici_verigirisi_kontrol/KullaniciVeriGirisiKontrol.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/methods/matematik/AtikYilMi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/methods/matematik/AtikYilMi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/methods/matematik/CemberCevreAlanHesabi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/methods/matematik/CemberCevreAlanHesabi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/methods/matematik/DongusuzSayiSaydirma.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/methods/matematik/DongusuzSayiSaydirma.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/methods/matematik/HesapMakinesi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/methods/matematik/HesapMakinesi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/methods/matematik/dikdortgenPrizmaHacimHesapla.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/methods/matematik/dikdortgenPrizmaHacimHesapla.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/methods/matematik/faktoriyet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/methods/matematik/faktoriyet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/methods/matematik/gunFarki.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/methods/matematik/gunFarki.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/methods/string/IsimVeKKartiGizleme.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/methods/string/IsimVeKKartiGizleme.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/methods/string/metniTersineCevir.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/methods/string/metniTersineCevir.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2LMAgSGju7bSSmRtyVqbxDcJcFY" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -16,9 +48,92 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/HakanBatirhan/IdeaProjects/methods"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="methods" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.IkiTarihArasindakiFark">
+    <configuration name="AtikYilMi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="methods.matematik.AtikYilMi" />
+      <module name="methods" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="methods.matematik.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CemberCevreAlanHesabi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="methods.matematik.CemberCevreAlanHesabi" />
+      <module name="methods" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="methods.string.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IkiTarihArasindakiFark" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="methods.tarih_hesaplari.IkiTarihArasindakiFark" />
+      <module name="methods" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="methods.tarih_hesaplari.GelecekIkiTarihArasindakiFark" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="dikdortgenPrizmaHacimHesapla" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="methods.matematik.dikdortgenPrizmaHacimHesapla" />
+      <module name="methods" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="methods.string.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gunFarki" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="methods.matematik.gunFarki" />
+      <module name="methods" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="methods.matematik.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.IkiTarihArasindakiFark" />
+        <item itemvalue="Application.gunFarki" />
+        <item itemvalue="Application.AtikYilMi" />
+        <item itemvalue="Application.CemberCevreAlanHesabi" />
+        <item itemvalue="Application.dikdortgenPrizmaHacimHesapla" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">

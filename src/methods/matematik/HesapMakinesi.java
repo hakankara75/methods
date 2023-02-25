@@ -1,4 +1,4 @@
-package methods;
+package methods.matematik;
 
 public class HesapMakinesi {
 
