@@ -1,10 +1,14 @@
 package methods.matematik;
 
 public class HesapMakinesi {
+    // iki variable'in degerlerini toplama yapan  bir method olusturalim
+    public static void Toplama(int a,int b){
+        System.out.println(a+b);
+    }
 
     // iki variable'in degerlerini Cikarma yapan  bir method olusturalim
     public static void Cikarma(int a,int b){
-        System.out.println(a+b);
+        System.out.println(a-b);
     }
 
     // iki variable'in degerlerini Bolma yapan  bir method olusturalim
@@ -15,6 +19,7 @@ public class HesapMakinesi {
     public static void Carpimi(int a,int b){
         System.out.println(a*b);
     }
+
 }
 
 
