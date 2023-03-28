@@ -5,8 +5,8 @@ import java.util.Scanner;
 public class Metni_Sayiya_Cevir {
     public static void main(String[] args) {
 
-        sayiyaCevir();
-
+        int sayi=sayiyaCevir();
+        System.out.println(sayi);
 
     }
 
@@ -17,7 +17,7 @@ public class Metni_Sayiya_Cevir {
         String son=metin.trim().replaceAll("\\D", "");
         int sayi=Integer.valueOf(son);
         //int sayi=Integer.parseInt(son);
-        System.out.println(sayi);
+
 return sayi;
     }
 }
